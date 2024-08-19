@@ -1,0 +1,21 @@
+button.add {
+  background-color: chocolate;
+  border-radius: 20px;
+  color: antiquewhite;
+  margin: 8px;
+  cursor: pointer;
+  height: 30px;
+}
+.ADDTASK {
+  border: 2px solid greenyellow;
+  border-radius: 6px;
+  width: 300px;
+  height: 25px;
+}
+.ADDTASK:focus {
+  border: 2px solid greenyellow;
+  border-radius: 6px;
+  width: 330px;
+  height: 25px;
+  background-color: aqua;
+}

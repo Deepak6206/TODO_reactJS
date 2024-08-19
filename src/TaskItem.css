@@ -1,0 +1,19 @@
+.completed {
+  text-decoration: line-through;
+}
+.not-completed {
+  text-decoration: none;
+}
+.task {
+  cursor: pointer;
+}
+.Actions {
+  text-align: right;
+}
+input,
+button {
+  border: solid 2px #c0c0c0;
+  font-size: 20px;
+  padding: 5px;
+  border-radius: 5px;
+}

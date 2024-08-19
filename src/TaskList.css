@@ -1,0 +1,28 @@
+.TodoList {
+  width: 100%;
+  color: red;
+  margin: 150px;
+}
+.Actions {
+  text-align: right;
+}
+tr {
+  width: 100%;
+}
+
+th {
+  width: 100%;
+
+  text-align: left;
+}
+button.edit {
+  background-color: #20a0b0;
+  color: antiquewhite;
+}
+button.delete {
+  background-color: #e04040;
+  color: antiquewhite;
+}
+div {
+  width: 100%;
+}
